@@ -1,0 +1,36 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+a {
+    color: darkslategrey;
+    font-family: Roboto;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-bottom: none;
+    transition: border-bottom .5s;
+  }
+  
+  a:hover {
+    border-bottom: 1px solid salmon;
+    
+  }
+  
+  a:active {
+    color: black;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+p{
+    font-family: Open Sans;
+}
+.newsitem{
+    padding-bottom: 10px;
+}
